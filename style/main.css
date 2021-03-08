@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: Tahoma, Sans Serif;
+	line-height: 1.7;
+}
+
+.header {
+	text-align: center;
+	font-size: 24px;
+}
+
+.header span {
+	font-weight: 400;
+	display: block;
+}
+
+.header strong {
+	font-weight: 900;
+	text-transform: uppercase;
+}
